@@ -1,0 +1,17 @@
+
+*.ipch
+*.tlog
+*.obj
+*.recipe
+*.log
+*.pdb
+*.idb
+*.dll
+*.ilk
+*.db
+*.opendb
+*.db-shm
+.vs/csgo-cheat/v17/.suo
+core/menu/lua/backend/lua/src/luac.c
+.vs/divinity-csgo/v17/.suo
+.vs/divinity-csgo/v17/Browse.VC.db-wal
